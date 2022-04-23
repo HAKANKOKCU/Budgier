@@ -1,0 +1,27 @@
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\bin\Debug\Budgier.exe
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\bin\Debug\Budgier.pdb
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\bin\Debug\Budgier.xml
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\obj\x86\Debug\MainWindow.baml
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\obj\x86\Debug\MainWindow.g.vb
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\obj\x86\Debug\Application.g.vb
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\obj\x86\Debug\Budgier_MarkupCompile.cache
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\obj\x86\Debug\Budgier.g.resources
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\obj\x86\Debug\Budgier.Resources.resources
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\obj\x86\Debug\Budgier.vbproj.GenerateResource.Cache
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\obj\x86\Debug\Budgier.exe
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\obj\x86\Debug\Budgier.xml
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgier\obj\x86\Debug\Budgier.pdb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\obj\x86\Debug\Budgier.exe
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\obj\x86\Debug\Budgier.xml
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\obj\x86\Debug\Budgier.pdb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\bin\Debug\Budgier.exe
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\bin\Debug\Budgier.pdb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\bin\Debug\Budgier.xml
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\obj\x86\Debug\MainWindow.baml
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\obj\x86\Debug\MainWindow.g.vb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\obj\x86\Debug\Application.g.vb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\obj\x86\Debug\Budgier_MarkupCompile.cache
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\obj\x86\Debug\Budgier.g.resources
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\obj\x86\Debug\Budgier.Resources.resources
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\obj\x86\Debug\Budgier.vbproj.GenerateResource.Cache
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgier\Budgier\bin\Debug\Budgier.exe.config
